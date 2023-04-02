@@ -1,0 +1,12 @@
+b{
+    font-size:25px;
+}
+img{
+    justify-content: space-between;
+}
+body{
+    background-image: url("./img/national flag.jpg");
+  
+    background-position: center;
+    background-size:cover;
+}
